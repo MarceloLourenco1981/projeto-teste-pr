@@ -1,2 +1,2 @@
 # projeto-teste-pr
-para fazer exercícios de fixação.
+Repositório para praticar Pull Requests.
